@@ -1,4 +1,4 @@
-#Dynamic-Pricer: Uber Fare Prediction with Machine Learning
+# Dynamic-Pricer: Uber Fare Prediction with Machine Learning
 
 An ML-based project to predict Uber fares dynamically using geospatial, temporal, and trip-related features.
 This model helps optimize ride pricing by learning patterns from historical data.
